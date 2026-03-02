@@ -1,1 +1,0 @@
-# GuiaoPratico_ILTW
