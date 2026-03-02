@@ -1,0 +1,57 @@
+/* Título principal */
+.titulo-principal {
+    text-align: center;
+    font-size: 42px;
+    color: #e83232;
+    font-weight: 700;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.15);
+    margin-top: 30px;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Contêiner geral da ementa */
+.ementa-container {
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+}
+
+/* Títulos das secções */
+.titulo-secundario {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+/* Listas */
+.lista-entradas,
+.lista-sobremesas {
+    margin-bottom: 25px;
+}
+
+/* Tabela dos pratos principais */
+.tabela-pratos {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.tabela-pratos th,
+.tabela-pratos td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+.tabela-pratos th {
+    background-color: #f7f7f7;
+    text-align: left;
+    font-weight: 600;
+}
+
+/* Preços a negrito */
+.preco {
+    font-weight: bold;
+}
